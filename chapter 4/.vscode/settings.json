@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "crtdefs.h": "c",
+        "math.h": "c",
+        "calculator.h": "c",
+        "assert.h": "c",
+        "limits.h": "c",
+        "driving_age.h": "c",
+        "ctype.h": "c"
+    }
+}
